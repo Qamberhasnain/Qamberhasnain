@@ -11,10 +11,10 @@
 </b>
 
 <br>
-
-- ⚡ Fun fact: **I'm an introvert who loves to connect with people.**
+<li> 💻 First <b>Deployed Spring Boot Web Application</b>: <a href="https://dictionaryapp.azurewebsites.net">Click here</a> to launch the application.</li>
+<li> ⚡ Fun fact: <b>I'm an introvert who loves to connect with people.</b></li>
 <br><br>
-### Connect with me:
+<h3> Connect with me:</h3>
 
 [![Linkedin Connect](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/qamberhasnain)
 [![Instagram Connect](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/__t_h_u_g__l_i_f_e_/)
