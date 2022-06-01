@@ -1,7 +1,6 @@
 <img src="https://komarev.com/ghpvc/?username=Qamberhasnain&color=blue"/>
 <h1 align="center">HOLA! I'm QAMBER HASNAIN <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 <h3 align="center">A Boy who finds problem to solve, if he can't find, creates one.</h3>
-
   <div align ="center">
     <img align ="right" alt="BoyWhoCodes"  width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
   </div>
@@ -9,8 +8,6 @@
     <p><b>I am QAMBER HASNAIN, a 3rd year student pursuing Bachelors in Computer science and engineering (Specializing in Data Science). I am a quick learner who loves to connect with people, learn new things and trying to understand life.</p>
     </b>
 </div><br>
-
-
 <br>
 <li> 💻 First <b>Deployed Spring Boot Web Application</b>: <a href="https://dictionaryapp.azurewebsites.net">Click here</a> to launch the application.</li>
 <li> ⚡ Fun fact: <b>I'm an introvert who loves to connect with people.</b></li>
