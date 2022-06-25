@@ -4,6 +4,7 @@
   <div align ="center">
     <img align ="right" alt="BoyWhoCodes"  width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
   </div>
+  <br>
   <div align ="left">
     <p><b>I am QAMBER HASNAIN, a 3rd year student pursuing Bachelors in Computer science and engineering (Specializing in Data Science). I am a quick learner who loves to connect with people, learn new things and trying to understand life.</p>
     </b>
