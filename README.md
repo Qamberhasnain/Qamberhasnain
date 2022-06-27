@@ -1,5 +1,5 @@
 <img src="https://komarev.com/ghpvc/?username=Qamberhasnain&color=blue"/>
-<h1 align="center">HOLA! I'm QAMBER HASNAIN <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+<h1 align="center">HOLA! I'm QAMBER HASNAIN <!--<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">--> 👋 </h1>
 <h3 align="center">A Boy who finds problem to solve, if he can't find, creates one.</h3>
   <div align ="center">
     <img align ="right" alt="BoyWhoCodes"  width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
