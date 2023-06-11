@@ -6,7 +6,7 @@
   </div>
   <br>
   <div align ="left">
-    <p><b>I am QAMBER HASNAIN, a 3rd year student pursuing Bachelors in Computer science and engineering (Specializing in Data Science). I am a quick learner who loves to connect with people, learn new things and trying to understand life.</p>
+    <p><b>I am QAMBER HASNAIN, a 4th year student pursuing Bachelors in Computer science and engineering (Specializing in Data Science). I am a quick learner who loves to connect with people, learn new things and trying to understand life.</p>
     </b>
 </div><br>
 <br>
